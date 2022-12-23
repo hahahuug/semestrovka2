@@ -1,0 +1,10 @@
+C:\Users\alsu2\source\repos\hockey1\hockey1\bin\Debug\hockey1.exe.config
+C:\Users\alsu2\source\repos\hockey1\hockey1\bin\Debug\hockey1.exe
+C:\Users\alsu2\source\repos\hockey1\hockey1\bin\Debug\hockey1.pdb
+C:\Users\alsu2\source\repos\hockey1\hockey1\obj\Debug\hockey1.csproj.AssemblyReference.cache
+C:\Users\alsu2\source\repos\hockey1\hockey1\obj\Debug\hockey1.Properties.Resources.resources
+C:\Users\alsu2\source\repos\hockey1\hockey1\obj\Debug\hockey1.csproj.GenerateResource.cache
+C:\Users\alsu2\source\repos\hockey1\hockey1\obj\Debug\hockey1.csproj.CoreCompileInputs.cache
+C:\Users\alsu2\source\repos\hockey1\hockey1\obj\Debug\hockey1.exe
+C:\Users\alsu2\source\repos\hockey1\hockey1\obj\Debug\hockey1.pdb
+C:\Users\alsu2\source\repos\hockey1\hockey1\obj\Debug\hockey1.Form1.resources
